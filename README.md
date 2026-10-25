@@ -15,7 +15,7 @@ The other outputs are the single-look power and a block-filled version that copi
 - `densepixc/dpc_*.sbatch`: Slurm jobs for tiles, figures and tests
 - `densepixc/tests/`: unit tests
 
-## Running it
+## How to run
 
 Without Slurm:
 
